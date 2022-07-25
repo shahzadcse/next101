@@ -1,0 +1,18 @@
+{
+  "first": {
+    "title": "First Post",
+    "content": "This is content for one"
+  },
+  "second": {
+    "title": "Second Post",
+    "content": "This is content for two"
+  },
+  "third": {
+    "title": "Third Post",
+    "content": "This is content for three"
+  },
+  "fourth": {
+    "title": "Fourth Post",
+    "content": "This is content for Four"
+  }
+}
