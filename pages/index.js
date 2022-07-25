@@ -6,9 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <h1>Home page</h1>
 
-      <Link href="/blog">
-        <a>Blog from Link</a>
-      </Link>
+      <Link href="/blog">Blog from Link</Link>
     </div>
   );
 }
