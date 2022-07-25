@@ -10,7 +10,7 @@ export default function Blog() {
           return (
             <li key={index}>
               <Link href="/blog/[id]" as={"/blog/" + id}>
-                <a>{posts[id].title}</a>
+                {posts[id].title}
               </Link>
             </li>
           );
